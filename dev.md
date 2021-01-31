@@ -1,4 +1,3 @@
-# hey' > dev.md
-git add dev.md
-
+# hey' 
+some changes
 
